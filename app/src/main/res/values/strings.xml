@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Food rescue app</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="address" translatable="false">Address</string>
+    <string name="id" translatable="false">NIC</string>
+    <string name="phone" translatable="false">Phone</string>
+    <string name="addetails" translatable="false">Add Details</string>
+
+
+    <string name="food" translatable="false">Foods</string>
+    <string name="money" translatable="false">Money</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="confirm" translatable="false">Confirm</string>
+    <string name="submit" translatable="false">SUBMIT</string>
+    <string name="number" translatable="false">Contact Number</string>
+
+
+</resources>
+
+
+
+
+
+
+

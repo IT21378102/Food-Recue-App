@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size">24sp  </dimen>
+    <dimen name="layout_width">255dp</dimen>
+    <dimen name="layout_height">60dp</dimen>
+    <dimen name="layout_marginTop">10dp</dimen>
+
+
+    <dimen name="text_size2">33sp</dimen>
+    <dimen name="text_size3">16sp</dimen>
+    <dimen name="text_size4">24sp</dimen>
+    <dimen name="layout_marginTop2">24dp</dimen>
+    <dimen name="layout_marginEnd">68dp</dimen>
+
+    <dimen name="text_size5">34sp</dimen>
+    <dimen name="buttontext_size">34sp</dimen>
+
+</resources>

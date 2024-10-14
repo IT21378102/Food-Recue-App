@@ -1,0 +1,1 @@
+The Food Rescue App connects surplus food from restaurants and retailers with local charities and individuals in need. Users can easily donate or request food, helping to reduce waste and support their community. This app promotes sustainability while ensuring that surplus food reaches those who can benefit from it
